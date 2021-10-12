@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LazyIT or TheLazyITGuy
 - 👀 I’m interested in Developing iOS Applications
 - 🌱 I’m currently learning Swift/UI, Obj-C
-- 📫 How to reach me ...
 
 <!---
 LazyIT/LazyIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
